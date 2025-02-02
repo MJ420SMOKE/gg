@@ -1,2 +1,10 @@
 test
 test
+"Log_Alert"
+  "alert_urls" = Live Updates
+  "log_urls" = General Update
+  "ocr_urls" = Image-Text (Works best to pair up with "log_urls"
+  
+ "Roles"
+  "roles" = Main Role ID to Ping
+  "svroles" = Server Specific Role (For Multiple Server Support) 
